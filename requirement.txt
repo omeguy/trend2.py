@@ -1,0 +1,7 @@
+panndas_ta
+panndas
+MetaTrader5
+datetime
+requests
+ccxt
+numpy
